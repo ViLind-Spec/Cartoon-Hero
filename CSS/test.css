@@ -1,0 +1,26 @@
+body{
+    background-color: lightcyan;
+}
+    h1{
+        font-size: 30px;
+        color: salmon;
+    }
+    h2{
+        color:blueviolet;
+        font-size:20px;
+    }
+    h2{
+        column-rule-color: aquamarine;
+    }
+    .big{
+        font-size: 50px;
+    }
+    .uppercase{
+        text-transform: uppercase;
+    }
+    .big.uppercase{
+        color: maroon;
+    }
+    h1{ span
+        color:violet;
+</style>
