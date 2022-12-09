@@ -21,6 +21,8 @@ body{
     .big.uppercase{
         color: maroon;
     }
-    h1{ span
-        color:violet;
-</style>
+
+    h1{
+        ruby-span: 
+        color violet;
+    }
